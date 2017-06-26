@@ -1,5 +1,4 @@
 #python separate_validation_train.py full_list train_name validation_name ratio
-
 import sys
 import random
 import math

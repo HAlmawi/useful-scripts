@@ -5,3 +5,6 @@ def get_num_lines(fname):
         for i, l in enumerate(f):
             pass
     return i + 1
+
+def separate_train_gt(line):
+    return line.split()
